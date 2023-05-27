@@ -2,7 +2,8 @@
 This is configuration with my collection of macros for Klipper on AKGO.
 
 ## A few warnings...
-This is configuration with my includes calibrations. So be cautious with it.
+This is configuration that includes my calibrations. So be cautious with it and
+take a look at `hardware/calibration.cfg`.
 
 ## Installation
 Structure of configuration is made so that you include `main.cfg` in
